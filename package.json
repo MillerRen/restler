@@ -1,5 +1,5 @@
 {
-  "name": "restler",
+  "name": "restler-client",
   "version": "3.2.2",
   "description": "An HTTP client library for node.js",
   "contributors": [
@@ -12,10 +12,10 @@
       "email": "ben@marvell-consulting.com"
     }
   ],
-  "homepage": "https://github.com/danwrong/restler",
+  "homepage": "https://github.com/MillerRen/restler",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwrong/restler.git"
+    "url": "https://github.com/MillerRen/restler.git"
   },
   "directories": {
     "lib": "./lib"
